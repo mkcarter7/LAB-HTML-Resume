@@ -1,3 +1,14 @@
 body {
-  background-color: aquamarine;
+  background-color: antiquewhite;
+}
+h2 {color: blue;
+}
+#articleOne{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-style: dotted ;
+
+}
+#articleTwo{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-style: double;
 }
